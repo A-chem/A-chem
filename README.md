@@ -9,6 +9,11 @@
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy experimenting with new tech and working on creative projects in my free time!
 
+
+# Animated Tech Stack:
+![Tech Animation](https://media.giphy.com/media/3o6Zt7f4v7yKm7e1nG/giphy.gif)  <!-- This will show an animated GIF -->
+
+
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
