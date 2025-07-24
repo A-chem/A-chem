@@ -33,17 +33,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=A-chem&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=A-chem&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=A-chem&theme=black-rose&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=A-chem&theme=default&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chem&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chem&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A-chem&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=A-chem&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
+
 
 
 ### 🔝 Top Contributed Repo
