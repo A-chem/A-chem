@@ -1,3 +1,7 @@
+
+<img width="961" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9fec9e13-b05c-4db0-a764-f16448ef6802" />
+
+
 <div align="center">
 
 # 💫 About Me:
