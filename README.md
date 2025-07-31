@@ -3,7 +3,7 @@
 
 
 <div align="center">
-
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/achemlal" alt="achemlal's 42 stats" /></a>
 # 💫 About Me:
 👋 Hi, I’m Abdilah CH, a student with a diploma in Higher Technician in Computer Engineering (DUT) and currently studying at school 1337. I’m passionate about emerging technologies, programming, and solving complex problems. My academic background, along with my DUT training, has given me a strong technical foundation.  
 👀 During my studies, I developed solid skills in database administration (especially with Oracle and MySQL), as well as in programming languages like Java, Python, C, and C++. I also engage in various interests to maximize my potential.  
